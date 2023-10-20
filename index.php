@@ -33,3 +33,4 @@
     // Inclusão do footer
     require_once("templates/footer.php");
 ?>
+    
